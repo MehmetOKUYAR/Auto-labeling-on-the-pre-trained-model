@@ -11,12 +11,11 @@ specify the yolo weights and config files you trained before.
 ~~~~~~~~~~~~
 7. weightsPath = "yolov4-obj_last.weights"
 8. configPath = "yolov4-obj.cfg"
-~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Specify the video path you want to test.
 
 ~~~~~~~~~~
 14. cap = cv2.VideoCapture('2.mp4')
-~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-t
