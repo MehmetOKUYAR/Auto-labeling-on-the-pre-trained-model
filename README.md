@@ -32,4 +32,4 @@ Edit them according to your class labels.
                 .
                 ]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     
-thats all
+that's all, if your model predicts well enough, it will predict and start labeling.
