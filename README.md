@@ -33,7 +33,7 @@ Edit them according to your class labels.
                 ]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     
 that's all, if your model predicts well enough, it will predict and start labeling.
-
+After the process is finished, you can check the labels with a labeling program and edit them again.
 ## You can see how the program works in the gif below.
 
 ![into gif](https://github.com/MehmetOKUYAR/auto-labeling-on-the-previously-trained-model/blob/main/images%20and%20txt/intro.gif)
