@@ -40,4 +40,5 @@ After the process is finished, you can check the labels with a labeling program 
 
 ## Outputs 
 
-A folder named `image and txt` will be created. after again a folder will be created in it as well as the current date and the predicted images and txts will be placed there
+A folder named `image and txt` will be created. after again a folder will be created in it as well as the current date and the predicted images and txts will be placed there.
+there is a sample folder named `image and txt` you can check it.
