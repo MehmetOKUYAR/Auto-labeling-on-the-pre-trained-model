@@ -20,6 +20,7 @@ Specify the video path you want to test.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 then you need to edit the following lines in `yolov4_pred.py` 
+
 Size should be changed according to your config file
 ~~~~~~
 8. model.setInputParams(size=(608, 608), scale=1/255, swapRB=True)
